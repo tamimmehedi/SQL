@@ -1,4 +1,3 @@
-
 -- Find all employees
 SELECT *
 FROM employee;
